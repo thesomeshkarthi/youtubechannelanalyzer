@@ -1,5 +1,5 @@
 # youtubechannelanalyzer
-"A Python Program that analyzes a Youtube Channel through the Youtube Data API and outputs the results." 
+"A Python Program that analyzes a Youtube Channel and outputs the results." 
 
 This program was created using an HTML page with a form linked to a seperate Python File via Flask. 
 The user inputs the "Channel ID" on one page, and once entered it will return all of the stats for that specific channel. 
