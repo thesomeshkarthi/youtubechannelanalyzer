@@ -6,7 +6,7 @@ The user inputs the "Channel ID" on one page, and once entered it will return al
 Channel ID's can be found at the end of a Youtube Channel's link.
 
 What seperates this program from similar websites such as Socialblade is that it shows the average amount of views and Subscribers to Views Ratio of a Youtube Channel.
-It can be used for small channels to help understand the activity of their audience, rather than simply praising larger channels with a lot of subscribers. 
+It can be used for small channels to help understand the activity of their audience, rather than simply praising larger channels with a lot of subscribers!  
 
 This program works well for comparing ratios between channels, and can help people detect channels with very inactive audiences or sub bots.
 
